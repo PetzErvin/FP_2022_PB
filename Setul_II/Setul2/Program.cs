@@ -152,7 +152,6 @@ namespace Setul2
         /// </summary>
         static void P3()
         {
-            Console.WriteLine("Problema 3!");
             int n, i, s, p;
             Console.WriteLine("Introduce un numar:");
             n = int.Parse(Console.ReadLine());
